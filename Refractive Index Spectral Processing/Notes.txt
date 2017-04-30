@@ -1,0 +1,5 @@
+Peg x-axis ranges to H2O Data from Daimon and Masumura 2007 at 24C (0.18 - 1.13um)
+
+In WebPlotDigitizer, use Automatic finding with the x_step algorithm, and a step of 0.01 (microns)
+
+Extract thin lines, shoot for a line width of 5 pixels to avoid jitter. Check to take most dominant actual line color, don't assume it knows already.
