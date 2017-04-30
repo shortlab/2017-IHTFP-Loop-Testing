@@ -2,6 +2,8 @@
 Data and code/script repository for 2017 IHTFP Loop Testing of Crud-Resistant Materials paper
 =======================================
 
+A permanent link to this data set can be found here: <a href="https://www.zenodo.org/badge/latestdoi/89861429"><img src="https://www.zenodo.org/badge/89861429.svg" alt="DOI"></a>
+
 Contains the following major components:
 <ul>
 <li>Information about the design, construction, and operation of the IHTFP crud loop
